@@ -1,4 +1,4 @@
-function basicTeenager(age) {
+function basicTeenager(age=14) {
   if(age>13 && <19){
 
   }
